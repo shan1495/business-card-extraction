@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    shan:
+      email: kuttysince85@gmail.com
+      name: P. Shanmugam
+      password: $2b$12$t.4mPt39LByvVwLly0sm6eLCgf91ALsbjGGljP4HaKrczN7cJfg7i # To be replaced with hashed password
+cookie:
+  expiry_days: 0
+  key: E23H2-32342sHqHrPZ # Must be string
+  name: test
+preauthorized:
+  emails:
+  - kuttysince85@gmail.com
